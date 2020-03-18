@@ -1,0 +1,22 @@
+{
+  "name": "technoz-city-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetchikoo2403/Technoz-City-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweetchikoo2403/Technoz-City-Bot/issues"
+  },
+  "homepage": "https://github.com/sweetchikoo2403/Technoz-City-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
