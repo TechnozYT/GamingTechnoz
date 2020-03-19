@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'Njc4MTk0MTQxNzEyMDg5MDkw.XnJAgQ._THfTRn-OobezZBwjuGTSSF_fpQ';
+const token = 'Njc4MTk0MTQxNzEyMDg5MDkw.XnMPGA.8qhYsXSnobYEXv8IYha39rtCIpk';
 
 const PREFIX = "@Technoz City Bot#8772";
 
